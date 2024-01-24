@@ -1,0 +1,5 @@
+1. Junio C Hamano 
+2. 12 objects, 3 blobs, 4 trees, 5 commits
+4. Author Metthias updated German translation for GIt v2.31.0 in this commit
+5. Document/config.txt
+6. 6
